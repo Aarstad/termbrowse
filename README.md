@@ -55,4 +55,5 @@ blocks when they are missing.
 Chromium is launched headless with a viewport sized from the terminal grid, at
 8x16 device pixels per cell. Half-block output gives one colour per half cell,
 so a 50x20 terminal is really 50x40 pixels of page — fine for logos and layout,
-useless for body text, which is why the default start page is a lite one.
+cheerfully hopeless at body text, which is why the default start page is a lite
+one.
